@@ -10,4 +10,5 @@ Run each script as root user. If not logged in as root user, append 'sudo' befor
 ## File compatibility:
 
 _ru: for Russian IP ranges supporting live downloads of native Astra Linux dependencies.
+
 _intl: for IP ranges outside Russia, uses available archived Debian equivalents. Functionality unchanged. 
